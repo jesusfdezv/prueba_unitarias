@@ -46,30 +46,55 @@ public class Connect4TDDSpec {
     // Cambio
     @Test
     public void whenDiscOutsideBoardThenRuntimeException() {
-        assertThrows(RuntimeException.class, () -> {});
 
+        assertThatThrownBy(() -> tested.putDiscInColumn(-1))
+                .isInstanceOf(RuntimeException.class);
 
+        assertThatThrownBy(() -> {
+            for (int i = 0; i <= 7; i++) {
+                tested.putDiscInColumn(3);
+                tested.putDiscInColumn(4);
+            }
+        }).isInstanceOf(RuntimeException.class).hasMessageContaining("No more room");
+
+        assertThrows(RuntimeException.class, () -> {
+            for (int i = 0; i <= 7; i++) {
+                tested.putDiscInColumn(5);
+            }
+        });
 
     }
 
     @Test
     public void whenFirstDiscInsertedInColumnThenPositionIsZero() {
 
-        assertThat(tested.putDiscInColumn(0)).isEqualTo(0);
+        for (int i = 0; i <= 6; i++) {
+            assertThat(tested.putDiscInColumn(i)).isEqualTo(0);
+        }
 
     }
 
     @Test
     public void whenSecondDiscInsertedInColumnThenPositionIsOne() {
 
+        for (int i = 0; i <= 6; i++) {
+            tested.putDiscInColumn(i);
+            assertThat(tested.putDiscInColumn(i)).isEqualTo(1);
+        }
 
     }
 
     @Test
     public void whenDiscInsertedThenNumberOfDiscsIncreases() {
 
+        int discosIniciales = 0;
+        tested.putDiscInColumn(3);
+        assertThat(tested.getNumberOfDiscs())
+                .isEqualTo(discosIniciales+1);
 
-
+        tested.putDiscInColumn(3);
+        assertThat(tested.getNumberOfDiscs())
+                .isEqualTo(discosIniciales+2);
     }
 
     @Test
