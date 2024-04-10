@@ -1,0 +1,74 @@
+<changelist name="Uncommitted_changes_before_rebase_[Changes]4" date="1712739535175" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/org/iesvdm/tddjava/ship/ShipSpec.class" />
+    <option name="AFTER_PATH" value="target/test-classes/org/iesvdm/tddjava/ship/ShipSpec.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/ShipSpec.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/org/iesvdm/tddjava/asserts/AssertTest.class" />
+    <option name="AFTER_PATH" value="target/test-classes/org/iesvdm/tddjava/asserts/AssertTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/AssertTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/org/iesvdm/tddjava/connect4/Connect4.class" />
+    <option name="AFTER_PATH" value="target/classes/org/iesvdm/tddjava/connect4/Connect4.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/Connect4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/org/iesvdm/tddjava/ship/Direction.class" />
+    <option name="AFTER_PATH" value="target/classes/org/iesvdm/tddjava/ship/Direction.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/Direction.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/org/iesvdm/tddjava/tictactoe/TicTacToe.class" />
+    <option name="AFTER_PATH" value="target/classes/org/iesvdm/tddjava/tictactoe/TicTacToe.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/TicTacToe.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/org/iesvdm/tddjava/ship/PlanetSpec.class" />
+    <option name="AFTER_PATH" value="target/test-classes/org/iesvdm/tddjava/ship/PlanetSpec.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/PlanetSpec.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/org/iesvdm/tddjava/friendships/FriendshipsMongoAssertJTest.class" />
+    <option name="AFTER_PATH" value="target/test-classes/org/iesvdm/tddjava/friendships/FriendshipsMongoAssertJTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/FriendshipsMongoAssertJTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/org/iesvdm/tddjava/connect4/Connect4TDD.class" />
+    <option name="AFTER_PATH" value="target/classes/org/iesvdm/tddjava/connect4/Connect4TDD.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/Connect4TDD.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/org/iesvdm/tddjava/connect4/Connect4TDDSpec.class" />
+    <option name="AFTER_PATH" value="target/test-classes/org/iesvdm/tddjava/connect4/Connect4TDDSpec.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/Connect4TDDSpec.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/org/iesvdm/tddjava/connect4/Connect4$Color.class" />
+    <option name="AFTER_PATH" value="target/classes/org/iesvdm/tddjava/connect4/Connect4$Color.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/Connect4$Color.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/org/iesvdm/tddjava/ship/LocationSpec.class" />
+    <option name="AFTER_PATH" value="target/test-classes/org/iesvdm/tddjava/ship/LocationSpec.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/LocationSpec.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/org/iesvdm/tddjava/tictactoe/TicTacToeSpec.class" />
+    <option name="AFTER_PATH" value="target/test-classes/org/iesvdm/tddjava/tictactoe/TicTacToeSpec.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/TicTacToeSpec.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/org/iesvdm/tddjava/ship/PointSpec.class" />
+    <option name="AFTER_PATH" value="target/test-classes/org/iesvdm/tddjava/ship/PointSpec.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/PointSpec.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/org/iesvdm/tddjava/ship/DirectionSpec.class" />
+    <option name="AFTER_PATH" value="target/test-classes/org/iesvdm/tddjava/ship/DirectionSpec.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/DirectionSpec.class" />
+  </binary>
+</changelist>
