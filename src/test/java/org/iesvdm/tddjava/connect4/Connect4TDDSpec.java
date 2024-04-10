@@ -43,7 +43,7 @@ public class Connect4TDDSpec {
      * Introduced disc drops down the board if the column is empty.
      * Future discs introduced in the same column will stack over previous ones
      */
-    // Cambio para rama 2
+    // Cambio
     @Test
     public void whenDiscOutsideBoardThenRuntimeException() {
         assertThrows(RuntimeException.class, () -> {});
