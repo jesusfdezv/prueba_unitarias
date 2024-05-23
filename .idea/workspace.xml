@@ -4,90 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="561063a2-7378-4c9d-bb45-d310103a949e" name="Changes" comment="mitad de test completados">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/AssertTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Connect4$Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Connect4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Connect4TDD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Connect4TDDSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/DirectionSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/FriendshipsMongoAssertJTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/LocationSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/PlanetSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/PointSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/ShipSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/TicTacToe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/TicTacToeSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/AssertTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Connect4$Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Connect4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Connect4TDD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Connect4TDDSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/DirectionSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/FriendshipsMongoAssertJTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/LocationSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/PlanetSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/PointSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/ShipSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/TicTacToe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/TicTacToeSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/AssertTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/Connect4$Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/Connect4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/Connect4TDD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/Connect4TDDSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/DirectionSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/FriendshipsMongoAssertJTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/LocationSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/PlanetSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/PointSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/ShipSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/TicTacToe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/TicTacToeSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/AssertTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/Connect4$Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/Connect4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/Connect4TDD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/Connect4TDDSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/DirectionSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/FriendshipsMongoAssertJTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/LocationSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/PlanetSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/PointSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/ShipSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/TicTacToe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/TicTacToeSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/AssertTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/Connect4$Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/Connect4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/Connect4TDD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/Connect4TDDSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/DirectionSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/FriendshipsMongoAssertJTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/LocationSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/PlanetSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/PointSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/ShipSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/TicTacToe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/TicTacToeSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_4.xml" beforeDir="false" />
+    <list default="true" id="561063a2-7378-4c9d-bb45-d310103a949e" name="Changes" comment="connecta4test hecho">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/connect4/Connect4TDDSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/connect4/Connect4TDDSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/connect4/Connect4TDDSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/connect4/Connect4TDDSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/LocationSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/LocationSpec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/ship/LocationSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/ship/LocationSpec.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,41 +56,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Connect4.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Connect4TDDSpec.when4VerticalDiscsAreConnectedThenThatPlayerWins.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Connect4TDDSpec.whenADiscIsIntroducedTheBoardIsPrinted.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Connect4TDDSpec.whenAskedForCurrentPlayerTheOutputNotice.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Connect4TDDSpec.whenDiscInsertedThenNumberOfDiscsIncreases.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Connect4TDDSpec.whenDiscOutsideBoardThenRuntimeException.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Connect4TDDSpec.whenFirstDiscInsertedInColumnThenPositionIsZero.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Connect4TDDSpec.whenFirstPlayerPlaysThenDiscColorIsRed.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Connect4TDDSpec.whenNoDiscCanBeIntroducedTheGamesIsFinished.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Connect4TDDSpec.whenNoMoreRoomInColumnThenRuntimeException.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Connect4TDDSpec.whenSecondDiscInsertedInColumnThenPositionIsOne.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Connect4TDDSpec.whenSecondPlayerPlaysThenDiscColorIsGreen.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Connect4TDDSpec.whenTheGameStartsItIsNotFinished.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.Connect4TDDSpec.whenTheGameStartsTheBoardIsEmpty.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/usuario/IdeaProjects/tests&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Connect4.executor": "Run",
+    "JUnit.Connect4TDDSpec.when4Diagonal1DiscsAreConnectedThenThatPlayerWins.executor": "Run",
+    "JUnit.Connect4TDDSpec.when4Diagonal2DiscsAreConnectedThenThatPlayerWins.executor": "Run",
+    "JUnit.Connect4TDDSpec.when4HorizontalDiscsAreConnectedThenThatPlayerWins.executor": "Run",
+    "JUnit.Connect4TDDSpec.when4VerticalDiscsAreConnectedThenThatPlayerWins.executor": "Run",
+    "JUnit.Connect4TDDSpec.whenADiscIsIntroducedTheBoardIsPrinted.executor": "Run",
+    "JUnit.Connect4TDDSpec.whenAskedForCurrentPlayerTheOutputNotice.executor": "Run",
+    "JUnit.Connect4TDDSpec.whenDiscInsertedThenNumberOfDiscsIncreases.executor": "Run",
+    "JUnit.Connect4TDDSpec.whenDiscOutsideBoardThenRuntimeException.executor": "Run",
+    "JUnit.Connect4TDDSpec.whenFirstDiscInsertedInColumnThenPositionIsZero.executor": "Run",
+    "JUnit.Connect4TDDSpec.whenFirstPlayerPlaysThenDiscColorIsRed.executor": "Run",
+    "JUnit.Connect4TDDSpec.whenNoDiscCanBeIntroducedTheGamesIsFinished.executor": "Run",
+    "JUnit.Connect4TDDSpec.whenNoMoreRoomInColumnThenRuntimeException.executor": "Run",
+    "JUnit.Connect4TDDSpec.whenSecondDiscInsertedInColumnThenPositionIsOne.executor": "Run",
+    "JUnit.Connect4TDDSpec.whenSecondPlayerPlaysThenDiscColorIsGreen.executor": "Run",
+    "JUnit.Connect4TDDSpec.whenTheGameStartsItIsNotFinished.executor": "Debug",
+    "JUnit.Connect4TDDSpec.whenTheGameStartsTheBoardIsEmpty.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.LocationSpec.givenDirectionEWhenBackwardThenXDecreases.executor": "Run",
+    "TestNG.LocationSpec.givenDirectionEWhenForwardThenXIncreases.executor": "Run",
+    "TestNG.LocationSpec.givenDirectionNWhenBackwardThenYIncreases.executor": "Run",
+    "TestNG.LocationSpec.givenDirectionNWhenForwardThenYDecreases.executor": "Run",
+    "TestNG.LocationSpec.givenDirectionSWhenBackwardThenYDecreases.executor": "Run",
+    "TestNG.LocationSpec.givenDirectionSWhenForwardThenYIncreases.executor": "Run",
+    "TestNG.LocationSpec.givenDirectionWWhenBackwardThenXIncreases.executor": "Run",
+    "TestNG.LocationSpec.givenDirectionWWhenForwardThenXDecreases.executor": "Run",
+    "TestNG.LocationSpec.whenInstantiatedThenDirectionIsStored.executor": "Run",
+    "TestNG.LocationSpec.whenInstantiatedThenXIsStored.executor": "Run",
+    "TestNG.LocationSpec.whenInstantiatedThenYIsStored.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/usuario/IdeaProjects/tests",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\usuario\IdeaProjects\bucles\bd_persons\test_person" />
@@ -180,101 +114,111 @@
       <recent name="C:\Users\usuario\IdeaProjects\bucles\bd_persons\test_person" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Connect4TDDSpec.when4VerticalDiscsAreConnectedThenThatPlayerWins">
-    <configuration name="Connect4TDDSpec.when4Diagonal1DiscsAreConnectedThenThatPlayerWins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.LocationSpec.givenObstacleWhenBackwardThenReturnFalse">
+    <configuration name="LocationSpec.givenDirectionNAndYEquals1WhenForwardThenMaxY" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test_person" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.iesvdm.tddjava.connect4.*" />
+          <option name="PATTERN" value="org.iesvdm.tddjava.ship.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.connect4" />
-      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.connect4.Connect4TDDSpec" />
-      <option name="METHOD_NAME" value="when4Diagonal1DiscsAreConnectedThenThatPlayerWins" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.ship" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.LocationSpec" />
+      <option name="METHOD_NAME" value="givenDirectionNAndYEquals1WhenForwardThenMaxY" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Connect4TDDSpec.when4Diagonal2DiscsAreConnectedThenThatPlayerWins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LocationSpec.givenDirectionSAndYEqualsMaxYWhenForwardThen1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test_person" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.iesvdm.tddjava.connect4.*" />
+          <option name="PATTERN" value="org.iesvdm.tddjava.ship.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.connect4" />
-      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.connect4.Connect4TDDSpec" />
-      <option name="METHOD_NAME" value="when4Diagonal2DiscsAreConnectedThenThatPlayerWins" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.ship" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.LocationSpec" />
+      <option name="METHOD_NAME" value="givenDirectionSAndYEqualsMaxYWhenForwardThen1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Connect4TDDSpec.when4HorizontalDiscsAreConnectedThenThatPlayerWins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LocationSpec.givenDirectionWAndXEquals1WhenForwardThenMaxX" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test_person" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.iesvdm.tddjava.connect4.*" />
+          <option name="PATTERN" value="org.iesvdm.tddjava.ship.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.connect4" />
-      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.connect4.Connect4TDDSpec" />
-      <option name="METHOD_NAME" value="when4HorizontalDiscsAreConnectedThenThatPlayerWins" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.ship" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.LocationSpec" />
+      <option name="METHOD_NAME" value="givenDirectionWAndXEquals1WhenForwardThenMaxX" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Connect4TDDSpec.when4VerticalDiscsAreConnectedThenThatPlayerWins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LocationSpec.givenObstacleWhenBackwardThenReturnFalse" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test_person" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.iesvdm.tddjava.connect4.*" />
+          <option name="PATTERN" value="org.iesvdm.tddjava.ship.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.connect4" />
-      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.connect4.Connect4TDDSpec" />
-      <option name="METHOD_NAME" value="when4VerticalDiscsAreConnectedThenThatPlayerWins" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.ship" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.LocationSpec" />
+      <option name="METHOD_NAME" value="givenObstacleWhenBackwardThenReturnFalse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Connect4TDDSpec.whenNoDiscCanBeIntroducedTheGamesIsFinished" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LocationSpec.givenObstacleWhenForwardThenReturnFalse" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test_person" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.iesvdm.tddjava.connect4.*" />
+          <option name="PATTERN" value="org.iesvdm.tddjava.ship.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.connect4" />
-      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.connect4.Connect4TDDSpec" />
-      <option name="METHOD_NAME" value="whenNoDiscCanBeIntroducedTheGamesIsFinished" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.ship" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.LocationSpec" />
+      <option name="METHOD_NAME" value="givenObstacleWhenForwardThenReturnFalse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Connect4TDDSpec.when4Diagonal1DiscsAreConnectedThenThatPlayerWins" />
-      <item itemvalue="JUnit.Connect4TDDSpec.when4Diagonal2DiscsAreConnectedThenThatPlayerWins" />
-      <item itemvalue="JUnit.Connect4TDDSpec.when4HorizontalDiscsAreConnectedThenThatPlayerWins" />
-      <item itemvalue="JUnit.Connect4TDDSpec.when4VerticalDiscsAreConnectedThenThatPlayerWins" />
-      <item itemvalue="JUnit.Connect4TDDSpec.whenNoDiscCanBeIntroducedTheGamesIsFinished" />
+      <item itemvalue="TestNG.LocationSpec.givenDirectionNAndYEquals1WhenForwardThenMaxY" />
+      <item itemvalue="TestNG.LocationSpec.givenDirectionSAndYEqualsMaxYWhenForwardThen1" />
+      <item itemvalue="TestNG.LocationSpec.givenDirectionWAndXEquals1WhenForwardThenMaxX" />
+      <item itemvalue="TestNG.LocationSpec.givenObstacleWhenBackwardThenReturnFalse" />
+      <item itemvalue="TestNG.LocationSpec.givenObstacleWhenForwardThenReturnFalse" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Connect4TDDSpec.when4VerticalDiscsAreConnectedThenThatPlayerWins" />
-        <item itemvalue="JUnit.Connect4TDDSpec.when4HorizontalDiscsAreConnectedThenThatPlayerWins" />
-        <item itemvalue="JUnit.Connect4TDDSpec.when4Diagonal1DiscsAreConnectedThenThatPlayerWins" />
-        <item itemvalue="JUnit.Connect4TDDSpec.when4Diagonal2DiscsAreConnectedThenThatPlayerWins" />
-        <item itemvalue="JUnit.Connect4TDDSpec.whenNoDiscCanBeIntroducedTheGamesIsFinished" />
+        <item itemvalue="TestNG.LocationSpec.givenObstacleWhenBackwardThenReturnFalse" />
+        <item itemvalue="TestNG.LocationSpec.givenObstacleWhenForwardThenReturnFalse" />
+        <item itemvalue="TestNG.LocationSpec.givenDirectionSAndYEqualsMaxYWhenForwardThen1" />
+        <item itemvalue="TestNG.LocationSpec.givenDirectionNAndYEquals1WhenForwardThenMaxY" />
+        <item itemvalue="TestNG.LocationSpec.givenDirectionWAndXEquals1WhenForwardThenMaxX" />
       </list>
     </recent_temporary>
   </component>
@@ -309,6 +253,8 @@
       <workItem from="1714465574558" duration="3607000" />
       <workItem from="1715070845178" duration="1178000" />
       <workItem from="1715156465261" duration="222000" />
+      <workItem from="1716447780202" duration="521000" />
+      <workItem from="1716449286536" duration="1144000" />
     </task>
     <task id="LOCAL-00001" summary="COMMIT INICIAL">
       <created>1680163647182</created>
@@ -428,7 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712745888790</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="connecta4test hecho">
+      <option name="closed" value="true" />
+      <created>1716448144095</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716448144095</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +408,8 @@
     <MESSAGE value="git ignore workspace" />
     <MESSAGE value="cambio comentario" />
     <MESSAGE value="mitad de test completados" />
-    <option name="LAST_COMMIT_MESSAGE" value="mitad de test completados" />
+    <MESSAGE value="connecta4test hecho" />
+    <option name="LAST_COMMIT_MESSAGE" value="connecta4test hecho" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
