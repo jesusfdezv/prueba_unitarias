@@ -14,13 +14,13 @@ public class PointSpec {
     public void beforeTest() {
         point = new Point(x, y);
     }
-
+    @Test
     public void whenInstantiatedThenXIsSet() {
-
+        assertEquals(point.getX(), x);
     }
-
+    @Test
     public void whenInstantiatedThenYIsSet() {
-
+        assertEquals(point.getY(), y);
     }
 
 }

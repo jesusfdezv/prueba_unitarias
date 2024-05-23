@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="561063a2-7378-4c9d-bb45-d310103a949e" name="Changes" comment="connecta4test hecho">
+    <list default="true" id="561063a2-7378-4c9d-bb45-d310103a949e" name="Changes" comment="ShipLocationTets">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/LocationSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/LocationSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/ship/LocationSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/ship/LocationSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/DirectionSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/DirectionSpec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/PlanetSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/PlanetSpec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/PointSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/PointSpec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/ShipSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/iesvdm/tddjava/ship/ShipSpec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/ship/DirectionSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/ship/DirectionSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/ship/PlanetSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/ship/PlanetSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/ship/PointSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/ship/PointSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/ship/ShipSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/iesvdm/tddjava/ship/ShipSpec.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,17 +84,59 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.DirectionSpec.givenNWhenLeftThenW.executor": "Run",
+    "TestNG.DirectionSpec.givenSWhenLeftThenE.executor": "Run",
+    "TestNG.DirectionSpec.givenSWhenRightThenW.executor": "Run",
+    "TestNG.DirectionSpec.givenWWhenRightThenN.executor": "Run",
+    "TestNG.DirectionSpec.whenGetFromShortNameBThenReturnNone.executor": "Run",
+    "TestNG.DirectionSpec.whenGetFromShortNameNThenReturnDirectionN.executor": "Run",
+    "TestNG.DirectionSpec.whenGetFromShortNameWThenReturnDirectionW.executor": "Run",
+    "TestNG.LocationSpec.givenDifferentDirectionWhenEqualsThenFalse.executor": "Run",
+    "TestNG.LocationSpec.givenDifferentObjectWhenEqualsThenFalse.executor": "Run",
+    "TestNG.LocationSpec.givenDifferentXWhenEqualsThenFalse.executor": "Run",
+    "TestNG.LocationSpec.givenDifferentYWhenEqualsThenFalse.executor": "Run",
+    "TestNG.LocationSpec.givenDirectionEAndXEqualsMaxXWhenForwardThen1.executor": "Run",
     "TestNG.LocationSpec.givenDirectionEWhenBackwardThenXDecreases.executor": "Run",
     "TestNG.LocationSpec.givenDirectionEWhenForwardThenXIncreases.executor": "Run",
+    "TestNG.LocationSpec.givenDirectionNAndYEquals1WhenForwardThenMaxY.executor": "Run",
     "TestNG.LocationSpec.givenDirectionNWhenBackwardThenYIncreases.executor": "Run",
     "TestNG.LocationSpec.givenDirectionNWhenForwardThenYDecreases.executor": "Run",
+    "TestNG.LocationSpec.givenDirectionSAndYEqualsMaxYWhenForwardThen1.executor": "Run",
     "TestNG.LocationSpec.givenDirectionSWhenBackwardThenYDecreases.executor": "Run",
     "TestNG.LocationSpec.givenDirectionSWhenForwardThenYIncreases.executor": "Run",
+    "TestNG.LocationSpec.givenDirectionWAndXEquals1WhenForwardThenMaxX.executor": "Run",
     "TestNG.LocationSpec.givenDirectionWWhenBackwardThenXIncreases.executor": "Run",
     "TestNG.LocationSpec.givenDirectionWWhenForwardThenXDecreases.executor": "Run",
+    "TestNG.LocationSpec.givenObstacleWhenBackwardThenReturnFalse.executor": "Run",
+    "TestNG.LocationSpec.givenObstacleWhenForwardThenReturnFalse.executor": "Run",
+    "TestNG.LocationSpec.givenSameObjectsWhenEqualsThenTrue.executor": "Run",
+    "TestNG.LocationSpec.givenSameXYDirectionWhenEqualsThenTrue.executor": "Run",
+    "TestNG.LocationSpec.whenCopyThenDifferentObject.executor": "Run",
+    "TestNG.LocationSpec.whenCopyThenEquals.executor": "Run",
     "TestNG.LocationSpec.whenInstantiatedThenDirectionIsStored.executor": "Run",
     "TestNG.LocationSpec.whenInstantiatedThenXIsStored.executor": "Run",
     "TestNG.LocationSpec.whenInstantiatedThenYIsStored.executor": "Run",
+    "TestNG.LocationSpec.whenTurnLeftThenDirectionIsSet.executor": "Run",
+    "TestNG.LocationSpec.whenTurnRightThenDirectionIsSet.executor": "Run",
+    "TestNG.PlanetSpec.whenInstantiatedThenMaxIsSet.executor": "Run",
+    "TestNG.PlanetSpec.whenInstantiatedThenObstaclesAreSet.executor": "Run",
+    "TestNG.PointSpec.whenInstantiatedThenXIsSet.executor": "Run",
+    "TestNG.PointSpec.whenInstantiatedThenYIsSet.executor": "Run",
+    "TestNG.ShipSpec.givenDirectionEAndXEquals1WhenReceiveCommandsBThenWrap.executor": "Run",
+    "TestNG.ShipSpec.givenDirectionEAndXEqualsMaxXWhenReceiveCommandsFThenWrap.executor": "Run",
+    "TestNG.ShipSpec.whenInstantiatedThenLocationIsSet.executor": "Run",
+    "TestNG.ShipSpec.whenInstantiatedThenPlanetIsStored.executor": "Run",
+    "TestNG.ShipSpec.whenMoveBackwardThenBackward.executor": "Run",
+    "TestNG.ShipSpec.whenMoveForwardThenForward.executor": "Run",
+    "TestNG.ShipSpec.whenReceiveCommandsBThenBackward.executor": "Run",
+    "TestNG.ShipSpec.whenReceiveCommandsFThenForward.executor": "Run",
+    "TestNG.ShipSpec.whenReceiveCommandsLThenTurnLeft.executor": "Run",
+    "TestNG.ShipSpec.whenReceiveCommandsRThenTurnRight.executor": "Run",
+    "TestNG.ShipSpec.whenReceiveCommandsThenAllAreExecuted.executor": "Run",
+    "TestNG.ShipSpec.whenReceiveCommandsThenOForOkAndXForObstacle.executor": "Run",
+    "TestNG.ShipSpec.whenReceiveCommandsThenStopOnObstacle.executor": "Run",
+    "TestNG.ShipSpec.whenTurnLeftThenLeft.executor": "Run",
+    "TestNG.ShipSpec.whenTurnRightThenRight.executor": "Run",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -114,8 +162,8 @@
       <recent name="C:\Users\usuario\IdeaProjects\bucles\bd_persons\test_person" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LocationSpec.givenObstacleWhenBackwardThenReturnFalse">
-    <configuration name="LocationSpec.givenDirectionNAndYEquals1WhenForwardThenMaxY" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ShipSpec.whenReceiveCommandsThenOForOkAndXForObstacle">
+    <configuration name="ShipSpec.givenDirectionEAndXEquals1WhenReceiveCommandsBThenWrap" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test_person" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +172,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.ship" />
-      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.LocationSpec" />
-      <option name="METHOD_NAME" value="givenDirectionNAndYEquals1WhenForwardThenMaxY" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.ShipSpec" />
+      <option name="METHOD_NAME" value="givenDirectionEAndXEquals1WhenReceiveCommandsBThenWrap" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -133,7 +181,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocationSpec.givenDirectionSAndYEqualsMaxYWhenForwardThen1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ShipSpec.givenDirectionEAndXEqualsMaxXWhenReceiveCommandsFThenWrap" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test_person" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +190,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.ship" />
-      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.LocationSpec" />
-      <option name="METHOD_NAME" value="givenDirectionSAndYEqualsMaxYWhenForwardThen1" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.ShipSpec" />
+      <option name="METHOD_NAME" value="givenDirectionEAndXEqualsMaxXWhenReceiveCommandsFThenWrap" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -151,7 +199,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocationSpec.givenDirectionWAndXEquals1WhenForwardThenMaxX" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ShipSpec.whenInstantiatedThenPlanetIsStored" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test_person" />
       <extension name="coverage">
         <pattern>
@@ -160,8 +208,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.ship" />
-      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.LocationSpec" />
-      <option name="METHOD_NAME" value="givenDirectionWAndXEquals1WhenForwardThenMaxX" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.ShipSpec" />
+      <option name="METHOD_NAME" value="whenInstantiatedThenPlanetIsStored" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -169,7 +217,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocationSpec.givenObstacleWhenBackwardThenReturnFalse" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ShipSpec.whenReceiveCommandsThenOForOkAndXForObstacle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test_person" />
       <extension name="coverage">
         <pattern>
@@ -178,8 +226,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.ship" />
-      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.LocationSpec" />
-      <option name="METHOD_NAME" value="givenObstacleWhenBackwardThenReturnFalse" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.ShipSpec" />
+      <option name="METHOD_NAME" value="whenReceiveCommandsThenOForOkAndXForObstacle" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -187,7 +235,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocationSpec.givenObstacleWhenForwardThenReturnFalse" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ShipSpec.whenReceiveCommandsThenStopOnObstacle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test_person" />
       <extension name="coverage">
         <pattern>
@@ -196,8 +244,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.iesvdm.tddjava.ship" />
-      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.LocationSpec" />
-      <option name="METHOD_NAME" value="givenObstacleWhenForwardThenReturnFalse" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvdm.tddjava.ship.ShipSpec" />
+      <option name="METHOD_NAME" value="whenReceiveCommandsThenStopOnObstacle" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -206,19 +254,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.LocationSpec.givenDirectionNAndYEquals1WhenForwardThenMaxY" />
-      <item itemvalue="TestNG.LocationSpec.givenDirectionSAndYEqualsMaxYWhenForwardThen1" />
-      <item itemvalue="TestNG.LocationSpec.givenDirectionWAndXEquals1WhenForwardThenMaxX" />
-      <item itemvalue="TestNG.LocationSpec.givenObstacleWhenBackwardThenReturnFalse" />
-      <item itemvalue="TestNG.LocationSpec.givenObstacleWhenForwardThenReturnFalse" />
+      <item itemvalue="TestNG.ShipSpec.givenDirectionEAndXEquals1WhenReceiveCommandsBThenWrap" />
+      <item itemvalue="TestNG.ShipSpec.givenDirectionEAndXEqualsMaxXWhenReceiveCommandsFThenWrap" />
+      <item itemvalue="TestNG.ShipSpec.whenInstantiatedThenPlanetIsStored" />
+      <item itemvalue="TestNG.ShipSpec.whenReceiveCommandsThenOForOkAndXForObstacle" />
+      <item itemvalue="TestNG.ShipSpec.whenReceiveCommandsThenStopOnObstacle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LocationSpec.givenObstacleWhenBackwardThenReturnFalse" />
-        <item itemvalue="TestNG.LocationSpec.givenObstacleWhenForwardThenReturnFalse" />
-        <item itemvalue="TestNG.LocationSpec.givenDirectionSAndYEqualsMaxYWhenForwardThen1" />
-        <item itemvalue="TestNG.LocationSpec.givenDirectionNAndYEquals1WhenForwardThenMaxY" />
-        <item itemvalue="TestNG.LocationSpec.givenDirectionWAndXEquals1WhenForwardThenMaxX" />
+        <item itemvalue="TestNG.ShipSpec.whenReceiveCommandsThenOForOkAndXForObstacle" />
+        <item itemvalue="TestNG.ShipSpec.whenReceiveCommandsThenStopOnObstacle" />
+        <item itemvalue="TestNG.ShipSpec.givenDirectionEAndXEquals1WhenReceiveCommandsBThenWrap" />
+        <item itemvalue="TestNG.ShipSpec.givenDirectionEAndXEqualsMaxXWhenReceiveCommandsFThenWrap" />
+        <item itemvalue="TestNG.ShipSpec.whenInstantiatedThenPlanetIsStored" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +302,7 @@
       <workItem from="1715070845178" duration="1178000" />
       <workItem from="1715156465261" duration="222000" />
       <workItem from="1716447780202" duration="521000" />
-      <workItem from="1716449286536" duration="1144000" />
+      <workItem from="1716449286536" duration="3913000" />
     </task>
     <task id="LOCAL-00001" summary="COMMIT INICIAL">
       <created>1680163647182</created>
@@ -382,7 +430,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716448144095</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ShipLocationTets">
+      <option name="closed" value="true" />
+      <created>1716450579927</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716450579927</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +465,8 @@
     <MESSAGE value="cambio comentario" />
     <MESSAGE value="mitad de test completados" />
     <MESSAGE value="connecta4test hecho" />
-    <option name="LAST_COMMIT_MESSAGE" value="connecta4test hecho" />
+    <MESSAGE value="ShipLocationTets" />
+    <option name="LAST_COMMIT_MESSAGE" value="ShipLocationTets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
